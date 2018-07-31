@@ -1,0 +1,15 @@
+what is a tail call recursion? why is it helpful, if at all? 
+
+Tailed recursion is when the recusive call is the last thing executed in the funciton 
+
+Tail recursive funcitons are considered better. can be optimized by compiler. Nothing left to do in funciton after recursive call, so saving stack grame is no use. 
+
+How is memory allocated during recursive funciton calls?
+
+Memory is allocated on the stack. Whenn it reaches the base case, it works its way back down. 
+
+Desicuss advantages/disadvantages of recursion 
+
+Disadvantages: Greater space and time requirements 
+
+Advantages: clean and simple way to write code 

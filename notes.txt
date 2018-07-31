@@ -13,3 +13,13 @@ Desicuss advantages/disadvantages of recursion
 Disadvantages: Greater space and time requirements 
 
 Advantages: clean and simple way to write code 
+
+What type of funciton is invoked with the new keyword? What does the function return? 
+
+Constructor functions that returns the create object 
+
+What does the new keyword do in JavaScript? 
+1. Creates a new object 
+2. sets jobjects prototype to be the prototype of the contructor funciton 
+3. Executes the construtor funciton with this as the newly created object
+4. Returns the created object. If the construtor returns an object, the object is returned. 

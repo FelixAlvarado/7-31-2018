@@ -23,3 +23,11 @@ What does the new keyword do in JavaScript?
 2. sets jobjects prototype to be the prototype of the contructor funciton 
 3. Executes the construtor funciton with this as the newly created object
 4. Returns the created object. If the construtor returns an object, the object is returned. 
+
+what is the role of the store in redux? 
+
+An object that holds the whole state tree of your application 
+
+Whawt does the subscribe method do in redux? 
+
+Let's you pass in a callback that is implemented whenever the store is updated. 
